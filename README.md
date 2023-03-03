@@ -1,1 +1,1 @@
-# g-creating-instance-by-using-terrafom-
+# g-creating-instance-by-using-terraform-
